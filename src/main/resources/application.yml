@@ -1,0 +1,4 @@
+kafka:
+  bootstrap-servers: localhost:2181
+  topic:
+    helloworld: helloworld.t
